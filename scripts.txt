@@ -1,0 +1,9 @@
+document.querySelectorAll('.names_hold').forEach(x => {x.remove()});
+document.querySelectorAll(".btn-more-2").forEach(x => x.click());
+
+document.querySelectorAll(".names_list__links.names_list__links--man").forEach(x => console.log(`{name: '${x.innerHTML}', gender: 'm'},`));
+
+document.querySelectorAll(".names_list__links.names_list__links--woman").forEach(x => console.log(`{name: '${x.innerHTML}', gender: 'f'},`));
+
+
+
