@@ -1,4 +1,4 @@
-# vaiko-vardas.github.io
+# vaiko-vardas-page
 
 Welcome to `Vaiko-vardas`, the perfect tool to embark on the delightful journey of choosing the perfect name for your precious newborn. Naming your baby is a momentous decision, and with `Vaiko-vardas`, we make it an enjoyable and stress-free experience.
 
